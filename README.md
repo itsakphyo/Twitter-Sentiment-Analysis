@@ -37,10 +37,8 @@ The code performs the following steps:
 
 2. Load the Twitter data:
 
-3. Exploratory Data Analysis (EDA):
+3. Preprocessing:
 
-4. Preprocessing:
+4. Feature Extraction:
 
-5. Feature Extraction:
-
-6. Model Training and Evaluation:
+5. Model Training and Evaluation:
