@@ -21,7 +21,7 @@ pip install pandas numpy seaborn matplotlib textblob nltk wordcloud scikit-learn
 
 ## Usage
 1. Clone the repository:
-git clone <repository_url>
+git clone https://github.com/itsakphyo/Twitter-Sentiment-Analysis.git
 
 
 2. Navigate to the cloned directory:
