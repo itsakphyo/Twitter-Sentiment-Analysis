@@ -21,14 +21,14 @@ pip install pandas numpy seaborn matplotlib textblob nltk wordcloud scikit-learn
 
 ## Usage
 1. Clone the repository:
-2. git clone <repository_url>
+git clone <repository_url>
 
 
-3. Navigate to the cloned directory:
-4. cd <repository_directory>
+2. Navigate to the cloned directory:
+cd <repository_directory>
 
 
-5. Execute the code using a Python interpreter or in a Jupyter Notebook.
+3. Execute the code using a Python interpreter or in a Jupyter Notebook.
 
 ## Code Explanation
 The code performs the following steps:
