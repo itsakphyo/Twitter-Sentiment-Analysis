@@ -16,3 +16,23 @@ The following dependencies are required to run the code:
 - sklearn
 
 You can install the dependencies using pip:
+
+## Usage
+1. Clone the repository:
+2. Navigate to the cloned directory:
+3. Execute the code using a Python interpreter or in a Jupyter Notebook.
+
+## Code Explanation
+The code performs the following steps:
+
+1. Import necessary libraries:
+
+2. Load the Twitter data:
+
+3. Exploratory Data Analysis (EDA):
+
+4. Preprocessing:
+
+5. Feature Extraction:
+
+6. Model Training and Evaluation:
